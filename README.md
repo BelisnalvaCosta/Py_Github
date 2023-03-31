@@ -11,7 +11,7 @@ Exemplos de códigos voltado para iniciantes que deseja ingressar na área de pr
 ## _*Meta dos meus cursos*_
 
 1. Bootcamp Geração Tech Unimed Python - [👩‍💻 Objetivo: Universidade] - [acesse o curso](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados), há concluír.
-2. Realizar as tarefas propostas na plataforma da UNIVESP.
+2. Realizar mais tarefas propostas na plataforma da UNIVESP.
 
 ### _*Meta para abril*_
 - [x] Fazer a tarefa Bootc. 1
@@ -30,6 +30,6 @@ Exemplos de códigos voltado para iniciantes que deseja ingressar na área de pr
 - [ ] Fazer nova meta de estudos até o final de 2023.
 - [ ] Done! :🚀👩‍💻 (:tada:)
 
->"Tudo é possível para aquee se esforça!" 
+>"Tudo é possível para aquele se esforça!" 
 
 [^1]: Este projeto tem como objetivo treinar os códigos em Python do meu Curso de Algoritmos e Programação de Computadores I.
