@@ -30,6 +30,6 @@ Exemplos de códigos voltado para iniciantes que deseja ingressar na área de pr
 - [ ] Fazer nova meta de estudos até o final de 2023.
 - [ ] Done! :🚀👩‍💻 (:tada:)
 
->"Tudo é possível para aquele se esforça!" 
+>"Tudo é possível para aquele que se esforça!" 
 
 [^1]: Este projeto tem como objetivo treinar os códigos em Python do meu Curso de Algoritmos e Programação de Computadores I.
