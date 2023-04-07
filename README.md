@@ -1,7 +1,7 @@
 # Py_Github
 #Alguns Exemplos de códigos em Python feito na IDE Pycharm[^1].
 
-## Final do primeiro semestre/23, plano de estudo em Python concuído!
+## Final do primeiro bimestre/23, plano de estudo em Python concuído!
 
 Exemplos de códigos voltado para iniciantes que deseja ingressar na área de programação em Python. 
 
